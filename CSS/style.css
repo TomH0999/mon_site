@@ -9,7 +9,7 @@ body, html {
 
 /* Fond d'écran */
 body {
-    background: url('background.jpg') no-repeat center center fixed;
+    background: url('https://steamuserimages-a.akamaihd.net/ugc/19801938803017726/55AC3D1DE82C48E3C1BEC29DCFC6FF9577E68535/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false') no-repeat center center fixed;
     background-size: cover;
 }
 
